@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <array name="arguments">
+        <item> </item>
+        <item>Temperatura</item>
+        <item>Ciśnienie</item>
+        <item>Wiatr</item>
+    </array>
+</resources>
